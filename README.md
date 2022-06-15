@@ -19,7 +19,7 @@
 
 <img src="assets/dash.png"/>
 <img src="assets/full.png"/>
-<img src="assets/telescope.png/>
+<img src="assets/telescope.png"/>
 
 
 ## installation 
@@ -37,4 +37,5 @@ nvim +PackerSync
 ```
 
 ## license 
+
 see [license](https://github.com/justleoo/kia/blob/main/LICENSE)
